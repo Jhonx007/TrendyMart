@@ -24,7 +24,7 @@ const About = () => {
           {/* mission */}
           <div className="bg-white rounded-xl shadow-md p-6 text-center hover:shadow-lg transition-shadow duration-300">
             <FaBullseye className="text-cyan-600 text-4xl mx-auto mb-4" />
-            <h2 className="text-xl font-semibold mb-2">Nuestra Misión</h2>
+            <h2 className="text-xl font-semibold mb-2">our mission</h2>
             <p className="text-neutral-600 text-sm">
               Provide carefully selected products at fair prices and exceptional
               customer service.
